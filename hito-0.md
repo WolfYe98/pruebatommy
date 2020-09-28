@@ -54,4 +54,4 @@
 | VEGA PALMA, LEANDRO| | |
 | VELA PELEGRINA, SERGIO| | |
 | VICTORIA MOHAMED, JAVIER| [VGT](https://github.com/javizzyv/VideoGameTracker) | v0.0.1 |
-| YE , BATE| | |
+| YE , BATE| [DancInform](https://github.com/WolfYe98/Proyecto_IV_Bate_Ye)| v0.0.1 |
